@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "695154893284",
+    "project_id": "melfoy-1a75c",
+    "storage_bucket": "melfoy-1a75c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695154893284:android:49d60c7776ea2dd85de7f1",
+        "android_client_info": {
+          "package_name": "com.aistudio.melofy.mpzx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695154893284-bfer4i3j0vo1anm2lmea52v27ol93mrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd19wDDOSd_kADoyey3jx_sgOVw-W59NM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695154893284-bfer4i3j0vo1anm2lmea52v27ol93mrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695154893284:android:951092529290832c5de7f1",
+        "android_client_info": {
+          "package_name": "com.melofy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695154893284-bfer4i3j0vo1anm2lmea52v27ol93mrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd19wDDOSd_kADoyey3jx_sgOVw-W59NM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695154893284-bfer4i3j0vo1anm2lmea52v27ol93mrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

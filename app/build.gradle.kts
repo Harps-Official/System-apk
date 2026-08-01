@@ -10,11 +10,11 @@ plugins {
 }
 
 android {
-  namespace = "com.melofy"
+  namespace = "com.melofy.app"
   compileSdk { version = release(36) { minorApiLevel = 1 } }
 
   defaultConfig {
-    applicationId = "com.melofy"
+    applicationId = "com.aistudio.melofy.mpzx"
     minSdk = 24
     targetSdk = 36
     versionCode = 1
