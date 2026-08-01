@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "695154893284",
+    "project_id": "melfoy-1a75c",
+    "storage_bucket": "melfoy-1a75c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695154893284:android:951092529290832c5de7f1",
+        "android_client_info": {
+          "package_name": "com.melofy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd19wDDOSd_kADoyey3jx_sgOVw-W59NM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
